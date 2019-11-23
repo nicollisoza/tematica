@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda Temática</string>
+    <string name="title_activity_registro">registro</string>
+    <string name="title_activity_registrarme">registrarme</string>
+    <string name="title_activity_recuperar_clave">recuperar_clave</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>

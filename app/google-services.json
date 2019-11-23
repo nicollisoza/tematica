@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137492735314",
+    "firebase_url": "https://fastrest-b154c.firebaseio.com",
+    "project_id": "fastrest-b154c",
+    "storage_bucket": "fastrest-b154c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137492735314:android:004f4a1d534624be81468b",
+        "android_client_info": {
+          "package_name": "com.example.fastrest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137492735314-cmmes5f5dqmevfc15v82labccjpc2dlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastrest",
+            "certificate_hash": "9f9c2105a7bc172c56af0aa2a37913272c9f4ee0"
+          }
+        },
+        {
+          "client_id": "137492735314-lmg4bgvlii0rpj9pvqv2vj6ppavqoeat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOq3lmY3HRjh7GfW9VezubV7vSDwG9CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137492735314-lmg4bgvlii0rpj9pvqv2vj6ppavqoeat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
